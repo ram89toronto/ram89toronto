@@ -3,5 +3,6 @@
 - 🌱 I’m currently learning Deep learning, OpenCV and Data Visualization 
 - 💞️ I’m looking to collaborate on Data Projects
 - 📫 How to reach me https://ramrallabandi.link/
+- 📧 Email me at ram89tornto@gmail.com
 
 
